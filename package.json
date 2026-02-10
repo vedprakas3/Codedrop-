@@ -1,0 +1,8 @@
+{
+  "name": "codedrop",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "nanoid": "^4.0.2"
+  }
+}
